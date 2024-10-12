@@ -1,0 +1,265 @@
+{
+  "bgSeting": {
+    "size": "Размер",
+    "color": "Цвет",
+    "colorMacthing": "Подбор цвета",
+    "width": "Ширина",
+    "height": "Высота"
+  },
+  "attrSeting": {
+    "group": "Группировать",
+    "unGroup": "Разгруппировать",
+    "flip": {
+      "name": "Отразить",
+      "x": "Отразить по горизонтали",
+      "y": "Отразить по вертикали"
+    },
+    "align": {
+      "name": "Выравнивание",
+      "left": "Выровнять влево",
+      "centerX": "Горизонтальное центрирование",
+      "right": "Выровнять вправо",
+      "top": "Выровнять по верхнему краю",
+      "bottom": "Выровнять по нижнему краю",
+      "centerY": "Вертикальное центрирование",
+      "averageX": "Горизонтальное распределение",
+      "averageY": "Вертикальное распределение"
+    },
+    "centerAlign": {
+      "name": "Центрирование",
+      "centerX": "Горизонтальный центр",
+      "center": "Горизонтальный и вертикальный центр",
+      "centerY": "Вертикальный центр"
+    }
+  },
+  "color": "Цвет",
+  "textFloat": "Дробное значение",
+  "templates": "Шаблоны",
+  "all_templates": "Все шаблоны",
+  "elements": "Элементы",
+  "font_style": "Текст",
+  "background": "Фон",
+  "grid": "Сетка",
+  "placeholder": "Пожалуйста, введите",
+  "common_elements": "Основные элементы",
+  "draw_elements": "Нарисовать элементы",
+  "code_img": "Код изображения",
+  "background_texture": "Текстура фона",
+  "picture": "Картинка",
+  "everything_is_fine": "Все в порядке",
+  "everything_goes_well": "Все идет хорошо",
+  "cartoon": "Мультфильм",
+  "default_size": "Размер по умолчанию",
+  "preview": "Предпросмотр",
+  "save": {
+    "empty": "Очистить",
+    "down": "Скачать",
+    "save_my_spase": "Сохранить в мое пространство",
+    "save_as_picture": "Изображение PNG",
+    "save_as_svg": "Изображение SVG",
+    "copy_to_clipboard": "Копировать в буфер обмена",
+    "copy_to_clipboardstr": "Копировать строку в буфер обмена",
+    "save_as_json": "Сохранить как JSON"
+  },
+  "layers": "Слои",
+  "my_spase": {
+    "remove_templ": "Удалить шаблон",
+    "remove_templTip": "Вы уверены, что хотите удалить шаблон?",
+    "remove_file_type": "Вы уверены, что хотите удалить папку?",
+    "remove_file_type_Tip": "Вы уверены, что хотите удалить шаблон?"
+  },
+  "title_template": "Шаблон заголовка",
+  "insert_svg": "Вставить SVG элемент",
+  "select_svg": "Выбрать SVG файл",
+  "please_choose": "Пожалуйста, выберите",
+  "string": "Строка",
+  "file": "Файл",
+  "importFiles": {
+    "file": "Файл",
+    "createDesign": {
+      "title": "Создать дизайн",
+      "customSize": "Пользовательский размер",
+      "systemSize": "Рекомендуемый размер",
+      "width": "Ширина",
+      "height": "Высота",
+      "create": "Создать"
+    },
+    "importFiles": "Импортировать файлы"
+  },
+  "select_json": "Выбрать JSON файл",
+  "repleaceImg": "Заменить изображение",
+  "createClip": "Добавить обрезку",
+  "removeClip": "Удалить обрезку",
+  "polygonClip": "Многоугольник",
+  "rectClip": "Прямоугольник",
+  "circleClip": "Круг",
+  "triangleClip": "Треугольник",
+  "polygonClipInverted": "Многоугольник [обратный]",
+  "rectClipInverted": "Прямоугольник [обратный]",
+  "circleClipInverted": "Круг [обратный]",
+  "triangleClipInverted": "Треугольник [обратный]",
+  "waterMark": {
+    "text": "Водяной знак",
+    "modalTitle": "Настройка водяного знака",
+    "setting": {
+      "name": "Название водяного знака",
+      "size": "Размер водяного знака",
+      "color": "Цвет водяного знака",
+      "angle": "Угол водяного знака",
+      "position": {
+        "label": "Позиция водяного знака",
+        "lt": "Левый верхний угол",
+        "rt": "Правый верхний угол",
+        "lb": "Левый нижний угол",
+        "rb": "Правый нижний угол",
+        "full": "Заполнить"
+      }
+    }
+  },
+  "material": {
+    "cartoon": "Материал"
+  },
+  "filters": {
+    "simple": "Простой фильтр",
+    "complex": "Сложный фильтр",
+    "Invert": "Инверсия",
+    "Sepia": "Сепия",
+    "BlackWhite": "Черно-белое",
+    "Brownie": "Коричневый",
+    "Vintage": "Винтаж",
+    "Kodachrome": "Кодахром",
+    "technicolor": "Техниколор",
+    "Polaroid": "Полароид",
+    "Grayscale": "Оттенки серого",
+    "GrayscaleList": {
+      "average": "Средний",
+      "lightness": "Светлый",
+      "luminosity": "Яркость"
+    },
+    "RemoveColor": "Удалить цвет",
+    "Brightness": "Яркость",
+    "Contrast": "Контраст",
+    "Saturation": "Насыщенность",
+    "Vibrance": "Вибрация",
+    "HueRotation": "Поворот оттенка",
+    "Noise": "Шум",
+    "Pixelate": "Пикселизация",
+    "Blur": "Размытие",
+    "Gamma": "Гамма"
+  },
+  "quick": {
+    "del": "Удалить",
+    "copy": "Копировать",
+    "lock": "Заблокировать",
+    "hide": "Скрыть",
+    "editPoly": "Редактировать многоугольник"
+  },
+  "insertFile": {
+    "insert": "Вставить",
+    "insert_picture": "Вставить изображение",
+    "insert_SVG": "Вставить SVG элемент",
+    "insert_SVGStr": "Вставить SVG строку",
+    "insert_PSD": "Вставить PSD",
+    "insert_SVGStr_placeholder": "Введите SVG строку",
+    "modal_tittle": "Введите"
+  },
+  "history": {
+    "revocation": "Отменить",
+    "redo": "Повторить"
+  },
+  "upload_background": "Загрузить фон",
+  "mouseMenu": {
+    "layer": "Управление слоями",
+    "copy": "Копировать",
+    "delete": "Удалить",
+    "group": "Группировать",
+    "unGroup": "Разгруппировать",
+    "up": "Переместить вверх",
+    "down": "Переместить вниз",
+    "upTop": "Переместить на передний план",
+    "downTop": "Переместить на задний план",
+    "center": "Центрировать по горизонтали и вертикали"
+  },
+  "alert": {
+    "loading_fonts": "Загрузка шрифтов, пожалуйста, подождите...",
+    "loading_fonts_failed": "Ошибка загрузки шрифтов, попробуйте еще раз!",
+    "loading_fonts_success": "Шрифты успешно загружены!",
+    "loading_data": "Загрузка данных...",
+    "select_image": "Выберите изображение фона",
+    "select_file": "Выберите файл",
+    "copied_sucessful": "Успешно скопировано",
+    "fail_copy": "Ошибка копирования"
+  },
+  "scenary_x": "Сценарий {number}",
+  "red_book_vertical": "Красная книга - Вертикально",
+  "red_book_horizontal": "Красная книга - Горизонтально",
+  "phone_wallpaper": "Обои для телефона",
+  "attributes": {
+    "id": "ID",
+    "linkData": "Связанные данные",
+    "font": "Шрифт",
+    "align": "Выравнивание",
+    "bold": "Жирный:",
+    "italic": "Курсив:",
+    "underline": "Подчеркнутый:",
+    "stroke": "Обводка",
+    "swipe_up": "Провести вверх:",
+    "line_height": "Межстрочный интервал",
+    "char_spacing": "Межсимвольный интервал",
+    "exterior": "Внешний вид",
+    "angle": "Угол поворота",
+    "left": "Ось X",
+    "top": "Ось Y",
+    "opacity": "Прозрачность",
+    "shadow": "Тень",
+    "blur": "Размытие",
+    "offset_x": "Смещение по X",
+    "offset_y": "Смещение по Y",
+    "borderRadiusX": "Горизонтальный радиус скругления",
+    "borderRadiusY": "Вертикальный радиус скругления",
+    "rx_ry": "Радиус"
+  },
+  "setSizeTip": "Изменить размер холста",
+  "tip": "Подсказка",
+  "clearTip": "Вы уверены, что хотите очистить?",
+  "replaceTip": "Вы уверены, что хотите добавить на холст?",
+  "ok": "Ок",
+  "cancel": "Отмена",
+  "cleanUp": "Очистить",
+  "login": {
+    "title": "Добро пожаловать",
+    "welcome": "Добро пожаловать в Fast Image",
+    "login": "Войти",
+    "register": "Регистрация",
+    "identifier": "Имя пользователя",
+    "username": "Имя пользователя",
+    "password": "Пароль",
+    "email": "Электронная почта",
+    "identifierValidate": "Введите имя пользователя",
+    "passwordValidate": "Введите пароль не менее 6 символов",
+    "emailValidate": "Введите действующий адрес электронной почты",
+    "logoutTip": "Вы уверены, что хотите выйти?",
+    "logoutSuccessTip": "Вы успешно вышли"
+  },
+  "myMaterial": {
+    "uploadBtn": "Загрузить материалы"
+  },
+  "admin": {
+    "btnTitle": "Управление",
+    "setToken": "Установить токен",
+    "save": "Сохранить",
+    "create": "Создать",
+    "addTempl": "Добавить шаблон",
+    "addTemplPlaceholder": "Введите название шаблона",
+    "addTemplCheckTip": "Название шаблона не может быть пустым"
+  },
+  "mine": "Мое",
+  "batch": "Пакетно",
+  "auth": {
+    "please_auth": "Сначала войдите в систему"
+  },
+  "typography": {
+    "quick_operations": "Быстрая работа"
+  }
+}
+

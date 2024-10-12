@@ -1,0 +1,265 @@
+{
+  "bgSeting": {
+    "size": "Андоза",
+    "color": "Ранг",
+    "colorMacthing": "Мувофиқати рангҳо",
+    "width": "Бар",
+    "height": "Баландӣ"
+  },
+  "attrSeting": {
+    "group": "Гурӯҳбандӣ",
+    "unGroup": "Ҷудо кардани гурӯҳ",
+    "flip": {
+      "name": "Ворун кардан",
+      "x": "Ворун ба самти уфуқӣ",
+      "y": "Ворун ба самти амудӣ"
+    },
+    "align": {
+      "name": "Ҳамоҳангсозӣ",
+      "left": "Ҳамоҳангсозӣ ба чап",
+      "centerX": "Ҳамоҳангсозии уфуқӣ",
+      "right": "Ҳамоҳангсозӣ ба рост",
+      "top": "Ҳамоҳангсозӣ ба боло",
+      "bottom": "Ҳамоҳангсозӣ ба поён",
+      "centerY": "Ҳамоҳангсозии амудӣ",
+      "averageX": "Тақсимоти уфуқӣ",
+      "averageY": "Тақсимоти амудӣ"
+    },
+    "centerAlign": {
+      "name": "Марк аз марказ",
+      "centerX": "Ҳамоҳангсозии маркази уфуқӣ",
+      "center": "Ҳамоҳангсозии маркази амудӣ",
+      "centerY": "Ҳамоҳангсозии маркази амудӣ"
+    }
+  },
+  "color": "Ранг",
+  "textFloat": "Адади даҳӣ",
+  "templates": "Шаблонҳо",
+  "all_templates": "Хамаи шаблонҳо",
+  "elements": "Унсурҳо",
+  "font_style": "Хат",
+  "background": "Замина",
+  "grid": "Шабака",
+  "placeholder": "Лутфан ворид кунед",
+  "common_elements": "Унсурҳои асосӣ",
+  "draw_elements": "Унсурҳои расмкашӣ",
+  "code_img": "Рамзи тасвир",
+  "background_texture": "Текстураи замина",
+  "picture": "Тасвир",
+  "everything_is_fine": "Ҳама чиз хуб аст",
+  "everything_goes_well": "Ҳама чиз мувофиқ аст",
+  "cartoon": "Карикатура",
+  "default_size": "Андозаи пешфарз",
+  "preview": "Пешнамоиш",
+  "save": {
+    "empty": "Тоза кардан",
+    "down": "Боргирӣ",
+    "save_my_spase": "Ба фазои шахсии ман сабт кунед",
+    "save_as_picture": "PNG тасвир",
+    "save_as_svg": "SVG тасвир",
+    "copy_to_clipboard": "Ба буфер нусхабардорӣ кунед",
+    "copy_to_clipboardstr": "Нусхаи сатри ба буфер",
+    "save_as_json": "Сабт ҳамчун JSON"
+  },
+  "layers": "Қабатҳо",
+  "my_spase": {
+    "remove_templ": "Ҳазфи қолаб",
+    "remove_templTip": "Оё шумо боварӣ доред, ки қолабро ҳазф кунед?",
+    "remove_file_type": "Оё шумо боварӣ доред, ки парвандаро ҳазф кунед?",
+    "remove_file_type_Tip": "Оё шумо боварӣ доред, ки қолабро ҳазф кунед?"
+  },
+  "title_template": "Қолаби сарлавҳа",
+  "insert_svg": "Ворид кардани унсури SVG",
+  "select_svg": "Интихоби парвандаи SVG",
+  "please_choose": "Лутфан интихоб кунед",
+  "string": "Текст",
+  "file": "Файл",
+  "importFiles": {
+    "file": "Файл",
+    "createDesign": {
+      "title": "Сохтани ороиш",
+      "customSize": "Андозаи фармоишӣ",
+      "systemSize": "Андозаи тавсияшавандаи система",
+      "width": "Бар",
+      "height": "Баландӣ",
+      "create": "Эҷод кунед"
+    },
+    "importFiles": "Импорти файлхо"
+  },
+  "select_json": "Интихоби парвандаи JSON",
+  "repleaceImg": "Иваз кардани расм",
+  "createClip": "Иловаи буриш",
+  "removeClip": "Хорич кардани колаб ",
+  "polygonClip": "Полигон",
+  "rectClip": "Мурбаъ",
+  "circleClip": "Доира",
+  "triangleClip": "Сегона",
+  "polygonClipInverted": "Полигон (тӯлӣ)",
+  "rectClipInverted": "Мурбаъ (тӯлӣ)",
+  "circleClipInverted": "Доира (тӯлӣ)",
+  "triangleClipInverted": "Сегона (тӯлӣ)",
+  "waterMark": {
+    "text": "Нишонаи обӣ",
+    "modalTitle": "Танзимоти нишонаи обӣ",
+    "setting": {
+      "name": "Номи нишонаи обӣ",
+      "size": "Андозаи нишонаи обӣ",
+      "color": "Ранги нишонаи обӣ",
+      "angle": "Кунҷи нишонаи обӣ",
+      "position": {
+        "label": "Мавқеи нишонаи обӣ",
+        "lt": "Аз болои чап",
+        "rt": "Аз болои рост",
+        "lb": "Аз поёни чап",
+        "rb": "Аз поёни рост",
+        "full": "Пурра"
+      }
+    }
+  },
+  "material": {
+    "cartoon": "Мавод"
+  },
+  "filters": {
+    "simple": "Филтрҳои оддӣ",
+    "complex": "Филтрҳои мураккаб",
+    "Invert": "Инверсия",
+    "Sepia": "Сепия",
+    "BlackWhite": "Сиёҳу сафед",
+    "Brownie": "Қаҳваранг",
+    "Vintage": "Ретро",
+    "Kodachrome": "Кодахром",
+    "technicolor": "Техниколор",
+    "Polaroid": "Полароид",
+    "Grayscale": "Ранггурез",
+    "GrayscaleList": {
+      "average": "Миёна",
+      "lightness": "Сабукӣ",
+      "luminosity": "Шуоъ"
+    },
+    "RemoveColor": "Хориҷ кардани ранг",
+    "Brightness": "Дурахшӣ",
+    "Contrast": "Тақобул",
+    "Saturation": "Рангпурӣ",
+    "Vibrance": "Вибрация",
+    "HueRotation": "Гардиши рангу нақш",
+    "Noise": "Шӯриш",
+    "Pixelate": "Пикселшавӣ",
+    "Blur": "Тира",
+    "Gamma": "Гамма"
+  },
+  "quick": {
+    "del": "Нест кардан",
+    "copy": "Нусхабардорӣ",
+    "lock": "Бастан",
+    "hide": "Пинҳон кардан",
+    "editPoly": "Таҳрири полигон"
+  },
+  "insertFile": {
+    "insert": "Гузоштан",
+    "insert_picture": "Гузоштан расм",
+    "insert_SVG": "Гузоштан SVG унсур",
+    "insert_SVGStr": "Гузоштан SVG сатр",
+    "insert_PSD": "Гузоштан PSD",
+    "insert_SVGStr_placeholder": "Лутфан сатрҳои SVG ворид кунед",
+    "modal_tittle": "Лутфан ворид кунед"
+  },
+  "history": {
+    "revocation": "Қафо",
+    "redo": "Такрор"
+  },
+  "upload_background": "Замина бор кунед",
+  "mouseMenu": {
+    "layer": "Идоракунии қабатҳо",
+    "copy": "Нусхабардорӣ",
+    "delete": "Нест кардан",
+    "group": "Гурӯҳ",
+    "unGroup": "Гурӯҳро нест кунед",
+    "up": "Болои қабат",
+    "down": "Пасти қабат",
+    "upTop": "Ба боло гузоштан",
+    "downTop": "Ба поён гузоштан",
+    "center": "Марказгардонӣ"
+  },
+  "alert": {
+    "loading_fonts": "Шрифҳо бор мешаванд, сабр кунед...",
+    "loading_fonts_failed": "Боркунии шрифҳо ноком шуд, лутфан кӯшиши дубора кунед!",
+    "loading_fonts_success": "Боркунии шрифҳо муваффақ шуд!",
+    "loading_data": "Боркунии маълумот...",
+    "select_image": "Лутфан расми замина интихоб кунед",
+    "select_file": "Лутфан парванда интихоб кунед",
+    "copied_sucessful": "Нусхабардорӣ муваффақ шуд",
+    "fail_copy": "Нусхабардорӣ ноком шуд"
+  },
+  "scenary_x": "Нақша {number}",
+  "red_book_vertical": "Китоби сурх амудӣ",
+  "red_book_horizontal": "Китоби сурх уфуқӣ",
+  "phone_wallpaper": "Обои телефон",
+  "attributes": {
+    "id": "Шахсияти",
+    "linkData": "Пайвастшавӣ",
+    "font": "Шрифт",
+    "align": "Ҳамоҳангсозӣ",
+    "bold": "Ғафс:",
+    "italic": "Хати каҷ:",
+    "underline": "Хати зеркашӣ:",
+    "stroke": "Чорчӯба",
+    "swipe_up": "Ба боло кашед:",
+    "line_height": "Баландии сатр",
+    "char_spacing": "Фосилаи ҳарфҳо",
+    "exterior": "Берунӣ",
+    "angle": "Гардиш",
+    "left": "X меҳвар",
+    "top": "Y меҳвар",
+    "opacity": "Шаффофият",
+    "shadow": "Соҳа",
+    "blur": "Тира",
+    "offset_x": "Меъёри X",
+    "offset_y": "Меъёри Y",
+    "borderRadiusX": "Радиуси кунҷҳои уфуқӣ",
+    "borderRadiusY": "Радиуси кунҷҳои амудӣ",
+    "rx_ry": "Радиус"
+  },
+  "setSizeTip": "Танзими андозаи канвас",
+  "tip": "Маслиҳат",
+  "clearTip": "Оё шумо боварӣ доред, ки тоза кардан мехоҳед?",
+  "replaceTip": "Оё шумо боварӣ доред, ки мехоҳед ба канвас илова кунед?",
+  "ok": "Тасдиқ кунед",
+  "cancel": "Бекор кардан",
+  "cleanUp": "Тоза кардан",
+  "login": {
+    "title": "Хуш омадед",
+    "welcome": "Хуш омадед ба тезраси тасвир",
+    "login": "Даромадан",
+    "register": "Сабт шудан",
+    "identifier": "Номи корбар",
+    "username": "Номи корбар",
+    "password": "Рамз",
+    "email": "Почта",
+    "identifierValidate": "Лутфан номи корбарро ворид кунед",
+    "passwordValidate": "Лутфан паролро аз 6 аломат бештар ворид кунед",
+    "emailValidate": "Лутфан нишонаи дурусти почта ворид кунед",
+    "logoutTip": "Оё шумо боварӣ доред, ки баромадан мехоҳед?",
+    "logoutSuccessTip": "Баромадан муваффақ шуд"
+  },
+  "myMaterial": {
+    "uploadBtn": "Боркунии мавод"
+  },
+  "admin": {
+    "btnTitle": "Идоракунӣ",
+    "setToken": "Танзими Token",
+    "save": "Сабт кардан",
+    "create": "Эҷод кардан",
+    "addTempl": "Илова кардани қолаб",
+    "addTemplPlaceholder": "Лутфан номи қолабро ворид кунед",
+    "addTemplCheckTip": "Номи қолаб наметавонад холӣ бошад"
+  },
+  "mine": "Молики ман",
+  "batch": "Баста",
+  "auth": {
+    "please_auth": "Аввал ба система ворид шавед"
+  },
+  "typography": {
+    "quick_operations": "Операцияхои тез"
+  }
+}
+

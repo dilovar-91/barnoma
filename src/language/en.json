@@ -1,0 +1,264 @@
+{
+  "bgSeting": {
+    "size": "Size",
+    "color": "Color",
+    "colorMacthing": "Color Matching",
+    "width": "Width",
+    "height": "Height"
+  },
+  "attrSeting": {
+    "group": "Group",
+    "unGroup": "Ungroup",
+    "flip": {
+      "name": "Flip",
+      "x": "Flip horizontally",
+      "y": "Flip vertically"
+    },
+    "align": {
+      "name": "Alignment",
+      "left": "Align left",
+      "centerX": "Center horizontally",
+      "right": "Align right",
+      "top": "Align top",
+      "bottom": "Align bottom",
+      "centerY": "Center vertically",
+      "averageX": "Distribute horizontally",
+      "averageY": "Distribute vertically"
+    },
+    "centerAlign": {
+      "name": "Centering",
+      "centerX": "Horizontal center",
+      "center": "Center both horizontally and vertically",
+      "centerY": "Vertical center"
+    }
+  },
+  "color": "Color",
+  "textFloat": "Fractional value",
+  "templates": "Templates",
+  "all_templates": "All templates",
+  "elements": "Elements",
+  "font_style": "Text",
+  "background": "Background",
+  "grid": "Grid",
+  "placeholder": "Please enter",
+  "common_elements": "Main elements",
+  "draw_elements": "Draw elements",
+  "code_img": "Image code",
+  "background_texture": "Background texture",
+  "picture": "Picture",
+  "everything_is_fine": "Everything is fine",
+  "everything_goes_well": "Everything is going well",
+  "cartoon": "Cartoon",
+  "default_size": "Default size",
+  "preview": "Preview",
+  "save": {
+    "empty": "Clear",
+    "down": "Download",
+    "save_my_spase": "Save to my space",
+    "save_as_picture": "PNG image",
+    "save_as_svg": "SVG image",
+    "copy_to_clipboard": "Copy to clipboard",
+    "copy_to_clipboardstr": "Copy string to clipboard",
+    "save_as_json": "Save as JSON"
+  },
+  "layers": "Layers",
+  "my_spase": {
+    "remove_templ": "Delete template",
+    "remove_templTip": "Are you sure you want to delete the template?",
+    "remove_file_type": "Are you sure you want to delete the folder?",
+    "remove_file_type_Tip": "Are you sure you want to delete the template?"
+  },
+  "title_template": "Title template",
+  "insert_svg": "Insert SVG element",
+  "select_svg": "Select SVG file",
+  "please_choose": "Please choose",
+  "string": "String",
+  "file": "File",
+  "importFiles": {
+    "file": "File",
+    "createDesign": {
+      "title": "Create design",
+      "customSize": "Custom size",
+      "systemSize": "Recommended size",
+      "width": "Width",
+      "height": "Height",
+      "create": "Create"
+    },
+    "importFiles": "Import files"
+  },
+  "select_json": "Select JSON file",
+  "repleaceImg": "Replace image",
+  "createClip": "Add clip",
+  "removeClip": "Remove clip",
+  "polygonClip": "Polygon",
+  "rectClip": "Rectangle",
+  "circleClip": "Circle",
+  "triangleClip": "Triangle",
+  "polygonClipInverted": "Polygon [inverted]",
+  "rectClipInverted": "Rectangle [inverted]",
+  "circleClipInverted": "Circle [inverted]",
+  "triangleClipInverted": "Triangle [inverted]",
+  "waterMark": {
+    "text": "Watermark",
+    "modalTitle": "Watermark settings",
+    "setting": {
+      "name": "Watermark name",
+      "size": "Watermark size",
+      "color": "Watermark color",
+      "angle": "Watermark angle",
+      "position": {
+        "label": "Watermark position",
+        "lt": "Top left corner",
+        "rt": "Top right corner",
+        "lb": "Bottom left corner",
+        "rb": "Bottom right corner",
+        "full": "Fill"
+      }
+    }
+  },
+  "material": {
+    "cartoon": "Material"
+  },
+  "filters": {
+    "simple": "Simple filter",
+    "complex": "Complex filter",
+    "Invert": "Invert",
+    "Sepia": "Sepia",
+    "BlackWhite": "Black and white",
+    "Brownie": "Brownie",
+    "Vintage": "Vintage",
+    "Kodachrome": "Kodachrome",
+    "technicolor": "Technicolor",
+    "Polaroid": "Polaroid",
+    "Grayscale": "Grayscale",
+    "GrayscaleList": {
+      "average": "Average",
+      "lightness": "Light",
+      "luminosity": "Brightness"
+    },
+    "RemoveColor": "Remove color",
+    "Brightness": "Brightness",
+    "Contrast": "Contrast",
+    "Saturation": "Saturation",
+    "Vibrance": "Vibrance",
+    "HueRotation": "Hue rotation",
+    "Noise": "Noise",
+    "Pixelate": "Pixelation",
+    "Blur": "Blur",
+    "Gamma": "Gamma"
+  },
+  "quick": {
+    "del": "Delete",
+    "copy": "Copy",
+    "lock": "Lock",
+    "hide": "Hide",
+    "editPoly": "Edit polygon"
+  },
+  "insertFile": {
+    "insert": "Insert",
+    "insert_picture": "Insert image",
+    "insert_SVG": "Insert SVG element",
+    "insert_SVGStr": "Insert SVG string",
+    "insert_PSD": "Insert PSD",
+    "insert_SVGStr_placeholder": "Enter SVG string",
+    "modal_tittle": "Enter"
+  },
+  "history": {
+    "revocation": "Undo",
+    "redo": "Redo"
+  },
+  "upload_background": "Upload background",
+  "mouseMenu": {
+    "layer": "Layer management",
+    "copy": "Copy",
+    "delete": "Delete",
+    "group": "Group",
+    "unGroup": "Ungroup",
+    "up": "Move up",
+    "down": "Move down",
+    "upTop": "Bring to front",
+    "downTop": "Send to back",
+    "center": "Center horizontally and vertically"
+  },
+  "alert": {
+    "loading_fonts": "Loading fonts, please wait...",
+    "loading_fonts_failed": "Font loading error, please try again!",
+    "loading_fonts_success": "Fonts loaded successfully!",
+    "loading_data": "Loading data...",
+    "select_image": "Select background image",
+    "select_file": "Select file",
+    "copied_sucessful": "Successfully copied",
+    "fail_copy": "Copy error"
+  },
+  "scenary_x": "Scenario {number}",
+  "red_book_vertical": "Red book - Vertical",
+  "red_book_horizontal": "Red book - Horizontal",
+  "phone_wallpaper": "Phone wallpaper",
+  "attributes": {
+    "id": "ID",
+    "linkData": "Related data",
+    "font": "Font",
+    "align": "Alignment",
+    "bold": "Bold:",
+    "italic": "Italic:",
+    "underline": "Underlined:",
+    "stroke": "Stroke",
+    "swipe_up": "Swipe up:",
+    "line_height": "Line height",
+    "char_spacing": "Character spacing",
+    "exterior": "Exterior",
+    "angle": "Rotation angle",
+    "left": "X axis",
+    "top": "Y axis",
+    "opacity": "Opacity",
+    "shadow": "Shadow",
+    "blur": "Blur",
+    "offset_x": "Offset X",
+    "offset_y": "Offset Y",
+    "borderRadiusX": "Horizontal border radius",
+    "borderRadiusY": "Vertical border radius",
+    "rx_ry": "Radius"
+  },
+  "setSizeTip": "Change canvas size",
+  "tip": "Tip",
+  "clearTip": "Are you sure you want to clear?",
+  "replaceTip": "Are you sure you want to add to the canvas?",
+  "ok": "Ok",
+  "cancel": "Cancel",
+  "cleanUp": "Clean up",
+  "login": {
+    "title": "Welcome",
+    "welcome": "Welcome to Fast Image",
+    "login": "Log in",
+    "register": "Register",
+    "identifier": "Username",
+    "username": "Username",
+    "password": "Password",
+    "email": "Email",
+    "identifierValidate": "Enter username",
+    "passwordValidate": "Enter password with at least 6 characters",
+    "emailValidate": "Enter a valid email address",
+    "logoutTip": "Are you sure you want to log out?",
+    "logoutSuccessTip": "You have successfully logged out"
+  },
+  "myMaterial": {
+    "uploadBtn": "Upload materials"
+  },
+  "admin": {
+    "btnTitle": "Management",
+    "setToken": "Set token",
+    "save": "Save",
+    "create": "Create",
+    "addTempl": "Add template",
+    "addTemplPlaceholder": "Enter template name",
+    "addTemplCheckTip": "Template name cannot be empty",
+    "mine": "Mine",
+    "batch": "Batch",
+    "auth": {
+      "please_auth": "Please log in first"
+    },
+    "typography": {
+      "quick_operations": "Quick operations"
+    }
+  }
+}
